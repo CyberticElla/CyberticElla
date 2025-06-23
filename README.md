@@ -11,6 +11,7 @@ I have garnered knowledge and skills in technical hardware, software and network
 ## 🧠 Summary
 
 - 🎓 **Currently Studying**: Cybersecurity Diploma @ ABM College (Graduating Dec 2025)
+- ✅ **Preparing for**: ISC2 CC, Security+
 - ✅ **Completed**: Google Cybersecurity Certificate – April 2025
 - ✅ **Completed**: Google IT Support Certificate – October 2024
 - 💼 **Background**: Seven years of Pharmacy practice with experience in patient care systems and privacy workflows  
