@@ -48,7 +48,7 @@ I have garnered knowledge and skills in technical hardware, software and network
 
 ## Take a look
 
-- 🌐 [Portfolio](https://github.com/PharmElla/portfolio)
+- 🌐 [Portfolio](https://github.com/CyberticElla/cybersecurity-portfolio)
 
 ---
 
